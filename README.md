@@ -15,7 +15,7 @@ Repo for the purpose of GDSC Open Source Volunteer picking
 
 
 ### Task 3: Forking Another Repo, Solving Issue, Creating Pull Request
-- Clone this repo [https://github.com/falgunxd/InterviewRepo] (https://github.com/falgunxd/InterviewRepo)
+- Clone this repo [https://github.com/falgunxd/InterviewRepo](https://github.com/falgunxd/InterviewRepo)
 - Fork a repository on GitHub to create a copy under your own account.
 - Clone the forked repository to your local machine.
 - Create a new branch and make necessary changes to address an issue.
